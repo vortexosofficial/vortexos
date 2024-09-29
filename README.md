@@ -16,10 +16,3 @@ With a focus on simplicity and accessibility, VortexOS provides a fluid and effi
 Download the ISO by [clicking here](https://drive.google.com/file/d/1oHh6Zxs8yeDpf_Uja4D0AOigGZOudfLT/view?usp=sharing)
 
 [MD5 ISO](https://github.com/vortexosofficial/vortexos/blob/main/vortexos_0.0.1-0.0.1-2024.09.14.md5)
-
-# Screen
-
-![main](screen/Screenshot%202024-09-15%2003-01-29.png)
-![menu](screen/Screenshot%202024-09-15%2003-02-08.png)
-![main](screen/Screenshot%202024-09-15%2003-02-16.png)
-![menu](screen/Screenshot%202024-09-15%2003-02-30.png)
